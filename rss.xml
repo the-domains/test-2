@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Video Games and Crocheted Things]]></title>
+        <description><![CDATA[Video Games and Crocheted Things]]></description>
+        <link>https://thegrid.ai/test-2/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 12 Oct 2015 19:12:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[viKERRYous]]></title>
+            <description><![CDATA[<article><h1>viKERRYous</h1><p>viKERRYous is a small crochet business run by me, Kerry Werch. Everything you see for sale is handcrafted by my hands alone. From choosing yarn to</p><img src="https://img0.etsystatic.com/050/1/10379025/il_340x270.730071818_rtty.jpg"></article>]]></description>
+            <link>https://www.etsy.com/shop/viKERRYous</link>
+            <guid isPermaLink="false">3d0056e9-28de-4642-874c-cb660086dd0f</guid>
+            <pubDate>Mon, 12 Oct 2015 19:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon.com Seller Profile: Resonate Industries]]></title>
+            <description><![CDATA[<article><h1>Amazon.com Seller Profile: Resonate Industries</h1><p>Sales tax is not separately calculated and collected in connection with items ordered from Resonate Industries through the Amazon.com Site unless explicitly indicated as such in the ordering process. Items ordered from Resonate Industries may be subject to tax in certain states, based on the state to which the order is shipped.</p><img src="https://images-na.ssl-images-amazon.com/images/I/51iot6lluHL.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test-2/amazoncom-seller-profile-resonate-industries/index.html</link>
+            <guid isPermaLink="false">0b2efe68-1ce7-46cb-abfd-2c451bcf3dc9</guid>
+            <pubDate>Mon, 12 Oct 2015 19:06:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
